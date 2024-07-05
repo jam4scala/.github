@@ -1,4 +1,3 @@
-
-<img width="344" alt="jam4s-yellow-black" src="https://github.com/jam4scala/.github/assets/5912709/d5e61599-8156-463e-960f-c4296e1f8923">
+![jam4s-logo](https://github.com/jam4scala/.github/assets/5912709/fd8f473f-2048-4037-9a21-b672f9053503)
 
 JAM 4 Scala Organization
